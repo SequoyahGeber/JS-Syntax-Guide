@@ -297,9 +297,9 @@ Comments are used to explain what your code does. It's important to make it read
 
 ```
 
-<!-- This is a
+/* This is a
 multi-line
-comment -->
+comment */
 
 ```
 
